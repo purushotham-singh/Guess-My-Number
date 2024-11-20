@@ -29,5 +29,5 @@ Guess My Number is a simple guessing game where players try to guess a randomly 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/guess-my-number.git
+   git clone https://github.com/purushotham-singh/Guess-My-Number.git
 
